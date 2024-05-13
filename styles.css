@@ -1,0 +1,206 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: lightgrey;
+}
+
+.nav {
+	background: rgba(105, 105, 105, 0.6);
+	border: 2px solid dimgray;
+	position: sticky;
+	top: 0px;
+	display: flex;
+	justify-content: space-around;
+	transform: 2;
+}
+
+.about {
+	display: flex;
+	justify-content: space-around;
+	width: 200px;
+	height: 70px;
+	align-items: center;
+	justify-content: center;
+	font-family: cursive;
+	font-size: 20px;
+	transform: 2;
+	background: rgba(105, 105, 105, 0.7);
+	border: 2px solid dimgray;
+}
+
+
+.about a {
+	color: black;
+	text-decoration: none;
+}
+
+.afini1 {
+	width: 100%;
+}
+
+.opis {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.content_glav {
+	font-family: cursive;
+	font-size: 15px;
+}
+
+.afini_nad {
+	color: white;
+	position: absolute;
+	top: 35%;
+	right: 35%;
+	font-size: 40px;
+}
+
+#opis {
+	width: 75%;
+}
+
+.about:hover {
+	font-size: 30px;
+	transform: 2s;
+}
+
+#afini1 {
+	height: 140px;
+	width: 25%;
+	position: absolute;
+	top: 103.3%;
+	left: 75%;
+	border: 2px solid dimgray;
+}
+
+
+
+.content2 {
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+.afini2 {
+	width: 100%;
+	display: flex;
+	align-self: center;
+}
+
+.img2 {
+	width: 100%;
+}
+
+p {
+	font-family: cursive;
+	font-size: 25px;
+	font-weight: 200;
+}
+
+.istor, .pos, .biznes, .teatr {
+	display: flex;
+	align-self: center;
+}
+
+.istor {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.pos {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.biznes {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.teatr {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+
+
+
+.content3 {
+display: flex;
+flex-direction: column;
+align-items: center;
+
+.afini3 {
+	width: 100%;
+	display: flex;
+	align-self: center;
+}
+
+.spisok, .institut, .bibl {
+	display: flex;
+	align-self: center;
+}
+
+.spisok {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.institut {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.bibl {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+
+
+
+.content4 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.afini4 {
+	width: 100%;
+	display: flex;
+	align-self: center;
+}
+
+.img4 {
+	width: 100%;
+}
+
+
+
+.pam {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.marsh {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.per {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+

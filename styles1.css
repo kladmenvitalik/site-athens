@@ -1,0 +1,48 @@
+p {
+	font-family: cursive;
+	font-size: 25px;
+	font-weight: 200;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: lightgrey;
+}
+
+.content4 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.afini4 {
+	width: 100%;
+	display: flex;
+	align-self: center;
+}
+
+.img4 {
+	width: 100%;
+}
+
+
+
+.pam {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.marsh {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.per {
+	border: 2px solid dimgray;
+	font-family: cursive;
+	font-size: 20px;
+}
+
